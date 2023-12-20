@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="heading">Welcome to TicTacToe</string>
+    <string name="grid">our main grid</string>
+    <string name="image3">image3</string>
+    <string name="image4">image4</string>
+    <string name="image5">image5</string>
+    <string name="image6">image6</string>
+    <string name="image7">image7</string>
+    <string name="image8">image8</string>
+    <string name="image9">image9</string>
+    <string name="image10">image10</string>
+    <string name="image11">image11</string>
+    <string name="footer">"X's turn - Tap to play"</string>
+</resources>
